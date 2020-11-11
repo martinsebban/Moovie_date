@@ -1,0 +1,20 @@
+.pop_up{
+	
+	background: white;
+	border-radius: 40px;
+	height: 50;
+	border: 1px solid;
+	border-color: black;
+}
+
+
+.pop_up {
+	position: absolute;
+    height: 400px;
+    top: 140px;
+    width: 300px;
+}
+
+
+
+

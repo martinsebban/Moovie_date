@@ -1,0 +1,37 @@
+.card {
+	display: flex;
+	justify-content: space-around;
+	border-radius: 30px;
+	background: rgba(255, 255, 255, 1);
+	margin: 10px;
+	width: 400px;
+	position: relative;
+	top: -10px;
+	height: 70px;
+}
+
+.card img {
+	width: 65px;
+	height: 65px;
+	border-radius: 90px;
+	padding-top: 2px;
+}
+
+.card h2 {
+	font-size: 20px;
+	color: rgb(253, 80, 104);
+	margin-top: -8px;
+    margin-right: -12px;
+    padding-left: 8px;
+}
+
+.card p {
+	margin-left:-40px;
+	margin-top: 25px;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	line-height: 20px;
+	color: rgba(0, 0, 0, 1); 
+}
